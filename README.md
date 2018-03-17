@@ -67,7 +67,7 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 10 指纹识别的使用 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/SKFingerprintDemo)  
 11 便捷开发的各种类库 -->[Additions](https://github.com/AlexanderYeah/Additions)    
 13 runtime review -->[SKRuntimeWorkSpace](https://github.com/AlexanderYeah/SKRuntimeWorkSpace/blob/master/README.md)  
-3 Cell左滑动删除菜单 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/SKTBCellDelWorkSpace)  
+14 获取iOS设备的各种信息 -->[iOS-getClientInfo](https://github.com/AlexanderYeah/iOS-getClientInfo)  
 4 手势解锁 -->[SKLockViewDemo](https://github.com/AlexanderYeah/SKLockViewDemo)
 
 
