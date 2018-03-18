@@ -14,7 +14,6 @@
 3 安装配置各种环境资料 -->[SKConfigAndInstallInstructions](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions)  
 1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
 1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
-1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
 
 ## 二 UI   
 1 iOS 三方库charts的使用 -->[
