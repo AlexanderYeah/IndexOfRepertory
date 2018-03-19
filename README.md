@@ -41,7 +41,7 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 21 导航栏颜色渐变 -->[SKNavColorChangeDemo](https://github.com/AlexanderYeah/SKNavColorChangeDemo)  
 22 仿QQ登录界面背景播放视频 -->[SKQQLoginDemo](https://github.com/AlexanderYeah/SKQQLoginDemo)  
 23 tableview实现购物车分类 -->[SKCategoryTbDemo](https://github.com/AlexanderYeah/SKCategoryTbDemo)  
-
+24 tableview实现购物车分类 -->[SKSliderDemo](https://github.com/AlexanderYeah/SKSliderDemo/tree/master)  
 
 
 ## 三 动画
