@@ -43,8 +43,8 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 23 tableview实现购物车分类 -->[SKCategoryTbDemo](https://github.com/AlexanderYeah/SKCategoryTbDemo)  
 24 模仿原生Slider -->[SKSliderDemo](https://github.com/AlexanderYeah/SKSliderDemo/tree/master)  
 25 下拉的菜单 -->[SKDropMenuDemo](https://github.com/AlexanderYeah/SKDropMenuDemo)  
-26 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
-26 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
+26 动态改变cell的高度 -->[SKDynamicChangeCellHeightDemo](https://github.com/AlexanderYeah/SKDynamicChangeCellHeightDemo)  
+26 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
 
 
 ## 三 动画
