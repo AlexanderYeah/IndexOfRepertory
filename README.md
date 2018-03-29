@@ -44,7 +44,7 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 24 模仿原生Slider -->[SKSliderDemo](https://github.com/AlexanderYeah/SKSliderDemo/tree/master)  
 25 下拉的菜单 -->[SKDropMenuDemo](https://github.com/AlexanderYeah/SKDropMenuDemo)  
 26 动态改变cell的高度 -->[SKDynamicChangeCellHeightDemo](https://github.com/AlexanderYeah/SKDynamicChangeCellHeightDemo)  
-26 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
+26 爱彼迎的动画 -->[lottie-ios](https://github.com/AlexanderYeah/lottie-ios)  
 
 
 ## 三 动画
