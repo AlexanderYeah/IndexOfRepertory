@@ -79,7 +79,8 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 
 # --------------------------Swift--------------------------  
 1 Swift 知识回顾 -->[ATSwiftWorkSpace](https://github.com/AlexanderYeah/ATSwiftWorkSpace/tree/master)  
-1 Switf 搭建的Tababr -->[SKYAOYAO](https://github.com/AlexanderYeah/SKYAOYAO)  
+2 Switf 搭建的Tababr -->[SKYAOYAO](https://github.com/AlexanderYeah/SKYAOYAO)  
+3 Swift 版本光学识别 -->[OCR](https://github.com/AlexanderYeah/ChineseIDCardOCR)  
 
 
 
