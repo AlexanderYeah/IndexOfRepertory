@@ -89,3 +89,6 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 
 
 # --------------------------HTML--------------------------   
+1 Swift 版本光学识别 -->[模仿OCTMAMI网站](https://github.com/AlexanderYeah/SKOctmamiDemo)  
+
+
