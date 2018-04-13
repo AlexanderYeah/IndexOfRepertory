@@ -74,7 +74,7 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 14 获取iOS设备的各种信息 -->[iOS-getClientInfo](https://github.com/AlexanderYeah/iOS-getClientInfo)  
 15 各种类扩展 -->[JKCategories](https://github.com/AlexanderYeah/JKCategories)
 1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
-1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCore
+1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCo
 
 
 # --------------------------Swift--------------------------  
