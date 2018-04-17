@@ -45,7 +45,9 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 25 下拉的菜单 -->[SKDropMenuDemo](https://github.com/AlexanderYeah/SKDropMenuDemo)  
 26 动态改变cell的高度 -->[SKDynamicChangeCellHeightDemo](https://github.com/AlexanderYeah/SKDynamicChangeCellHeightDemo)    
 27 爱彼迎的动画 -->[lottie-ios](https://github.com/AlexanderYeah/lottie-ios)  
-28 各种图标控件 -->[AAChartKit](https://github.com/AAChartModel/AAChartKit)  
+28 各种图标控件 -->[AAChartKit](https://github.com/AAChartModel/AAChartKit)   
+29 视频播放界面 -->[JPVideoPlayer](https://github.com/AlexanderYeah/JPVideoPlayer) 
+
 
 ## 三 动画
 1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
