@@ -1,7 +1,11 @@
 <img src="https://github.com/AlexanderYeah/IndexOfRepertory/blob/master/jobs.png"/>
 
 # IndexOfRepertory
-## __create index for all repertory__
+## __create index for all repertory__  
+
+# --------------------------资料--------------------------  
+
+1 Markdown 编辑器，macOS & windows & linux 三个平台-->[marktext](https://github.com/AlexanderYeah/marktext) 
 
 
 # --------------------------OC--------------------------      
