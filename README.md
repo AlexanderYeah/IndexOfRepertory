@@ -80,7 +80,7 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 14 获取iOS设备的各种信息 -->[iOS-getClientInfo](https://github.com/AlexanderYeah/iOS-getClientInfo)  
 15 各种类扩展 -->[JKCategories](https://github.com/AlexanderYeah/JKCategories)
 16 App 常用工具类 -->[HGBToolAPP](https://github.com/AlexanderYeah/HGBToolAPP)  
-1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/A
+17 MVVM框架的了解以及基本的示例 -->[MVVMLearnDemo](https://github.com/AlexanderYeah/MVVMLearnDemo/tree/master) 
 
 
 # --------------------------Swift--------------------------  
