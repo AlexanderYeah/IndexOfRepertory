@@ -50,7 +50,8 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 26 动态改变cell的高度 -->[SKDynamicChangeCellHeightDemo](https://github.com/AlexanderYeah/SKDynamicChangeCellHeightDemo)    
 27 爱彼迎的动画 -->[lottie-ios](https://github.com/AlexanderYeah/lottie-ios)  
 28 各种图标控件 -->[AAChartKit](https://github.com/AAChartModel/AAChartKit)   
-29 视频播放界面 -->[JPVideoPlayer](https://github.com/AlexanderYeah/JPVideoPlayer) 
+29 视频播放界面 -->[JPVideoPlayer](https://github.com/AlexanderYeah/JPVideoPlayer)   
+29 点击tableview cell 改变其高度 -->[SKChangeTBCellHeight](https://github.com/AlexanderYeah/SKChangeTBCellHeight) 
 
 
 ## 三 动画
