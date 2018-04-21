@@ -79,8 +79,8 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 11 便捷开发的各种类库 -->[Additions](https://github.com/AlexanderYeah/Additions)    
 13 runtime review -->[SKRuntimeWorkSpace](https://github.com/AlexanderYeah/SKRuntimeWorkSpace/blob/master/README.md)  
 14 获取iOS设备的各种信息 -->[iOS-getClientInfo](https://github.com/AlexanderYeah/iOS-getClientInfo)  
-15 各种类扩展 -->[JKCategories](https://github.com/AlexanderYeah/JKCategories)
-16 App 常用工具类 -->[HGBToolAPP](https://github.com/AlexanderYeah/HGBToolAPP)  
+15 各种类扩展 -->[JKCategories](https://github.com/AlexanderYeah/JKCategories)  
+16 App 常用工具类 -->[HGBToolAPP](https://github.com/AlexanderYeah/HGBToolAPP)  
 17 MVVM框架的了解以及基本的示例 -->[MVVMLearnDemo](https://github.com/AlexanderYeah/MVVMLearnDemo/tree/master) 
 
 
