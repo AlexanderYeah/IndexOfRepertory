@@ -5,8 +5,8 @@
 
 # --------------------------资料--------------------------  
 
-1 Markdown 编辑器，macOS & windows & linux 三个平台-->[marktext](https://github.com/AlexanderYeah/marktext) 
-
+1 Markdown 编辑器，macOS & windows & linux 三个平台-->[marktext](https://github.com/AlexanderYeah/marktext)  
+2 吴恩达的机器学习教程 -->[Coursera-ML-AndrewNg-Notes](https://github.com/AlexanderYeah/Coursera-ML-AndrewNg-Notes)
 
 # --------------------------OC--------------------------      
 
