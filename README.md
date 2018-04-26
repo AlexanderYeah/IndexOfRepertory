@@ -16,7 +16,8 @@
 2 持续学习资料汇总 -->[ATKeepStudyWorkSpace
 ](https://github.com/AlexanderYeah/ATKeepStudyWorkSpace)   
 3 安装配置各种环境资料 -->[SKConfigAndInstallInstructions](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions)  
-1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
+1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCo
+
 
 
 ## 二 UI   
