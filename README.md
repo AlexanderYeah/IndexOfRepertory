@@ -53,7 +53,8 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 28 各种图标控件 -->[AAChartKit](https://github.com/AAChartModel/AAChartKit)   
 29 视频播放界面 -->[JPVideoPlayer](https://github.com/AlexanderYeah/JPVideoPlayer)   
 30 点击tableview cell 改变其高度 -->[SKChangeTBCellHeight](https://github.com/AlexanderYeah/SKChangeTBCellHeight)  
-31 带有酷炫特效的Lbl -->[LTMorphingLabel](https://github.com/AlexanderYeah/LTMorphingLabel) 
+31 带有酷炫特效的Lbl -->[LTMorphingLabel](https://github.com/AlexanderYeah/LTMorphingLabel)   
+32 别人的跑马灯 -->[Wonderful](https://github.com/AlexanderYeah/Wonderful) 
 
 
 
