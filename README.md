@@ -8,7 +8,7 @@
 1 Markdown 编辑器，macOS & windows & linux 三个平台-->[marktext](https://github.com/AlexanderYeah/marktext)  
 2 吴恩达的机器学习教程 -->[Coursera-ML-AndrewNg-Notes](https://github.com/AlexanderYeah/Coursera-ML-AndrewNg-Notes)  
 3 微信机器人自动化脚本 没事玩玩 -->[wxpy](https://github.com/AlexanderYeah/wxpy)  
-4 计算机开放电子书（不完全）汇总 -->[wxpy]https://github.com/AlexanderYeah/it-ebooks-archive)
+4 计算机开放电子书（不完全）汇总 -->[电子书](https://github.com/AlexanderYeah/it-ebooks-archive)
 
 
 # --------------------------OC--------------------------      
@@ -19,7 +19,8 @@
 2 持续学习资料汇总 -->[ATKeepStudyWorkSpace
 ](https://github.com/AlexanderYeah/ATKeepStudyWorkSpace)   
 3 安装配置各种环境资料 -->[SKConfigAndInstallInstructions](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions)  
-4 OC排序的方式 -->[Play-With-Sort-OC](https://github.com/AlexanderYeah/Play-With-Sort-OC) 
+4 OC排序的方式 -->[Play-With-Sort-OC](https://github.com/AlexanderYeah/Play-With-Sort-OC)  
+5 阿里面试题整理 -->[interview](https://github.com/AlexanderYeah/interview) 
 
 
 ## 二 UI   
