@@ -114,7 +114,7 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 4 简单的爬虫 bs 和 urllib 的使用 -->[爬虫 ](https://github.com/AlexanderYeah/SKLearnScrapyProcess)  
 
 
-# --------------------------HTML------------------------- 
+# --------------------------HTML------------------------
 1 网站建设 -->[模仿OCTMAMI网站](https://github.com/AlexanderYeah/SKOctmamiDemo)    
 2 HTML的一些模板 -->[HTML的一些模板](https://github.com/AlexanderYeah/SKHTMLTemplateRep)   
 3 BootStrap 项目综合 -->[BootStrap](https://github.com/AlexanderYeah?tab=repositories)  
