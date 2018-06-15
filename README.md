@@ -25,7 +25,7 @@
 3 安装配置各种环境资料 -->[SKConfigAndInstallInstructions](https://github.com/AlexanderYeah/SKConfigAndInstallInstructions)  
 4 OC排序的方式 -->[Play-With-Sort-OC](https://github.com/AlexanderYeah/Play-With-Sort-OC)  
 5 阿里面试题整理 -->[interview](https://github.com/AlexanderYeah/interview)  
-6 腾讯出品内存检测库 -->[内存检测](https://github.com/AlexanderYeah/MLeaksFinder) 
+6 腾讯出品内存检测库 -->[内存检测](https://github.com/AlexanderYeah/MLeaksFinder)   
 7 三方分享支付开放 ---> [三方分享](https://github.com/AlexanderYeah/openshare) 
 
 
