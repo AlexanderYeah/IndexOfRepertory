@@ -68,9 +68,9 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 33 中间凸起的tabbar -->[中间凸起的tabbar](
 https://github.com/AlexanderYeah/CYTabbar)     
 34 索引定位 -->[SKIndexFinderDemo](
-https://github.com/AlexanderYeah/SKIndexFinderDemo/tree/master)  
-
-
+https://github.com/AlexanderYeah/SKIndexFinderDemo/tree/master)    
+35 keyboard 管理 -->[UseIQKeyboardManager](
+https://github.com/AlexanderYeah/UseIQKeyboardManager) 
 
 
 
