@@ -66,7 +66,11 @@ SDCycleScrollView](https://github.com/AlexanderYeah/SDCycleScrollView)
 32 别人的跑马灯 -->[Wonderful](https://github.com/AlexanderYeah/Wonderful)  
 32 水波纹动画 -->[SXWaveAnimate](https://github.com/dsxNiubility/SXWaveAnimate)  
 33 中间凸起的tabbar -->[中间凸起的tabbar](
-https://github.com/AlexanderYeah/CYTabbar) 
+https://github.com/AlexanderYeah/CYTabbar)     
+34 索引定位 -->[SKIndexFinderDemo](
+https://github.com/AlexanderYeah/SKIndexFinderDemo/tree/master)  
+
+
 
 
 
