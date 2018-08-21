@@ -82,12 +82,15 @@ https://github.com/AlexanderYeah/LocationManager)
 
 38 
 
+
 ## 三 动画
 1 高级核心动画学习 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/ATCoreAnimWorkSpace)  
 2 系统动画的回顾 -->[SKAnimationWorkSpace](https://github.com/AlexanderYeah/SKAnimationWorkSpace)  
 3 自定义cell的高度 -->[SKCustomTBCellHeightDemo](https://github.com/AlexanderYeah/SKCustomTBCellHeightDemo)  
 4 Cell左滑动删除菜单 -->[ATCoreAnimWorkSpace](https://github.com/AlexanderYeah/SKTBCellDelWorkSpace)  
-5 手势解锁 -->[SKLockViewDemo](https://github.com/AlexanderYeah/SKLockViewDemo)
+5 手势解锁 -->[SKLockViewDemo](https://github.com/AlexanderYeah/SKLockViewDemo)  
+6 lottie动画使用-->[LottieViewMager](https://github.com/AlexanderYeah/LottieViewMager)
+
 
 
 
