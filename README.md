@@ -78,7 +78,11 @@ https://github.com/AlexanderYeah/ExpandTableView)
 37 Tableview 折叠 -->[折叠的tableview ](
 https://github.com/AlexanderYeah/SKZheDieTableView)   
 38 火星转码 -->[火星转码 ](
-https://github.com/AlexanderYeah/LocationManager) 
+https://github.com/AlexanderYeah/LocationManager)     
+39 自动计算cell高度 -->[自动计算cell高度 ](
+https://github.com/AlexanderYeah/SKAutoCellHeight/tree/master)   
+
+
 
 38 
 
