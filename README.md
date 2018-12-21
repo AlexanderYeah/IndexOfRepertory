@@ -80,8 +80,10 @@ https://github.com/AlexanderYeah/SKZheDieTableView)
 38 火星转码 -->[火星转码 ](
 https://github.com/AlexanderYeah/LocationManager)     
 39 自动计算cell高度 -->[自动计算cell高度 ](
-https://github.com/AlexanderYeah/SKAutoCellHeight/tree/master)   
-
+https://github.com/AlexanderYeah/SKAutoCellHeight/tree/master)     
+39 在线播放音频文件 -->[ 在线播放音频文件](
+https://github.com/AlexanderYeah/SK_PlayOnWavFileDemo/new/master?readme=1
+)   
 
 
 38 
